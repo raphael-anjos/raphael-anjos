@@ -3,7 +3,7 @@ Profissional da área de TI graduado em Sistemas de Informação de São Paulo-S
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-7EB09B?style=for-the-badge)](https://web.dio.me/users/raphaelsantos_briet/) 
-[![E-mail](https://img.shields.io/badge/-Email-519E8A?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF)](mailto:raphael.alberto@live@outlook.com)
+[![E-mail](https://img.shields.io/badge/-Email-519E8A?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF)](mailto:raphael.alberto@live.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-035693?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/raphael-alberto-7bb91961/)
 
 
